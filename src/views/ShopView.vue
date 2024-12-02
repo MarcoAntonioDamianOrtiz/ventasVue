@@ -1,6 +1,6 @@
 <script setup>
 
-import MainNav from './MainNav.vue';
+import MainNav from '../components/MainNav.vue';
 
 </script>
 
